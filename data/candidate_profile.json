@@ -5,16 +5,16 @@
     "linkedin": "linkedin.com/in/pranath-prasanth-49a36a267/",
     "github": "github.com/PranathPrasanth",
     "skills": [
-        "TensorFlow",
-        "NLP",
-        "C",
-        "Deep Learning",
         "CSS",
-        "SQL",
+        "TensorFlow",
+        "Deep Learning",
         "Data Science",
         "Python",
+        "Machine Learning",
         "HTML",
-        "Machine Learning"
+        "C",
+        "SQL",
+        "NLP"
     ],
     "education": [
         "Bachelor"
